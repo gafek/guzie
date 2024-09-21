@@ -4,13 +4,13 @@
     {
       "domain": [
         "weixinsxy.com",
-        "wxapp.tc.qq.com",
-        "cdn.steamstatic.com"
+        "wxapp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
         ".1cn.fun",
+        ".steamstatic.com",
         ".bijiaqi.com",
         ".dd373.com",
         ".achuanai.com",
