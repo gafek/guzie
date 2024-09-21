@@ -89,7 +89,7 @@
       { "clash_mode": "global", "outbound": "GLOBAL" },
       { "domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one"], "outbound": "🎯 全球直连" },
       { "ip_is_private": true, "outbound": "🎯 全球直连" },
-      { "rule_set": [ "games-cn" ], "outbound": "🎮 游戏服务" },
+      { "rule_set": [ "games-cn", "my-direct"], "outbound": "🎮 游戏服务" },
       { "rule_set": "geosite-openai", "outbound": "🤖 OpenAI" },
       { "rule_set": "geosite-youtube", "outbound": "📹 YouTube" },
       { "rule_set": ["geoip-google", "geosite-google"], "outbound": "🍀 Google" },
@@ -99,7 +99,7 @@
       { "rule_set": ["geoip-apple", "geosite-apple"], "outbound": "🍎 Apple" },
       { "rule_set": "geosite-microsoft", "outbound": "🪟 Microsoft" },      
       { "rule_set": "geosite-geolocation-!cn", "outbound": "🚀 节点选择" },
-      { "rule_set": ["geoip-cn", "geosite-cn", "my-direct"], "outbound": "🎯 全球直连" }
+      { "rule_set": ["geoip-cn", "geosite-cn"], "outbound": "🎯 全球直连" }
     ],
     
     "rule_set": [
