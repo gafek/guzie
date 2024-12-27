@@ -16,20 +16,23 @@
         ".dd373.com",
         ".achuanai.com",
         ".cloudflare.com",
-        ".wxapp.tc.qq.com"
+        ".wxapp.tc.qq.com",
+        ".dynv6.net"
       ]
     },
     {
       "domain_keyword": [
         "cherrytv",
-        "cherr"
+        "cherr",
+        "dushe",
+        "cdn"
       ]
     },
     {
       "ip_cidr": [
         "129.226.3.47/32",
         "162.62.163.63/32",
-        "192.168.101.1/24"
+        "192.168.1.1/16"        
       ]
     }
   ]
