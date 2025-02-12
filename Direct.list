@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,dd373.com
 DOMAIN-SUFFIX,achuanai.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,dynv6.net
-
+DOMAIN-SUFFIX,guanxingyun.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -26,3 +26,4 @@ IP-CIDR,45.153.131.250/24,no-resolve
 IP-CIDR,185.242.233.212/24,no-resolve
 IP-CIDR,185.242.234.241/24,no-resolve
 IP-CIDR,156.226.172.90/24,no-resolve
+IP-CIDR,45.138.70.150/24,no-resolve
