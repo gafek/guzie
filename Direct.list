@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,achuanai.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,guanxingyun.com
+DOMAIN-SUFFIX,okx.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -18,6 +19,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,dushe
 DOMAIN-KEYWORD,cdn
+DOMAIN-KEYWORD,bilibili
 
 # IP段匹配
 IP-CIDR,192.168.1.1/16,no-resolve
