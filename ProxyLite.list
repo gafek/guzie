@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,okx.com
 
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,okx
 
 
 # IP段匹配
