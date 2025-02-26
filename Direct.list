@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,achuanai.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,guanxingyun.com
-DOMAIN-SUFFIX,okx.com
+# DOMAIN-SUFFIX,okx.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
