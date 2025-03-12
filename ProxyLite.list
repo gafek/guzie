@@ -1,19 +1,4 @@
 # MyList
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binancezh.info
-DOMAIN-SUFFIX,bitget.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,bige.one
-DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,google.com
 
 # 域名后缀匹配
@@ -21,7 +6,6 @@ DOMAIN-SUFFIX,google.com
 
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,google
 
 
