@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,antigravity.google
 
 # 其他需要特定ip的站点
 DOMAIN-SUFFIX,huggingface.co
